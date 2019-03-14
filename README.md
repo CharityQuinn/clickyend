@@ -1,3 +1,17 @@
+# clickyend
+
+This *The Clicky Flower*, app will allow users to play a game of clicking a picture of a specific flower which will then shuffle the positions of the flowers and the user must click a different flower to gain points.  If the user clicks a flower a second time, the score reverts to *Zero* and the user _must try again_ 
+
+Errors help with the learning - giving me a view into to the correct and incorrect ways of coding.  I have received support from TA's, Tutor, a fellow student and the instructor.  If you have any questions, please contact me through [Gmail](CharityAQuinn@gmail.com).
+
+I have include a few screen shots of the site below:
+[Home Page]("./public/images/ClickyHome.gif")
+[Scoring]("./public/images/ClikyScore4.gif")
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
