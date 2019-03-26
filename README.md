@@ -6,7 +6,7 @@ Errors help with the learning - giving me a view into to the correct and incorre
 
 I have include a few screen shots of the site below:
 [Home Page](![image](https://user-images.githubusercontent.com/44899945/55003627-1fa09700-4faf-11e9-8f99-9c5d481d063f.png)
-[Scoring]("./public/images/ClikyScore4.gif")
+[Scoring]![image](https://user-images.githubusercontent.com/44899945/55004048-e288d480-4faf-11e9-81d3-c7847a545d37.png)
 
 
 
